@@ -1,0 +1,6 @@
+framework module Pods_Navi_Problem_Statement {
+  umbrella header "Pods-Navi-Problem-Statement-umbrella.h"
+
+  export *
+  module * { export * }
+}
